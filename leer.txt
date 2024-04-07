@@ -1,0 +1,9 @@
+Lenguaje del codigo:
+
+Python 3.11.0
+
+Bibliotecas empleadas:
+
+speech_recognition
+pyttsx3
+pywhatkit
